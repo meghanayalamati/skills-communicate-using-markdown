@@ -1,2 +1,1 @@
-# <H1> Markdown </H1>
-# <h2> Heading 2 </h2>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) alt="New Image"
